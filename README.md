@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Xiaolin Zhang's github stats](https://github-readme-stats.vercel.app/api?username=xiaomengyc&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
+About Me:
+
+
+⚡ Website: https://xiaomengyc.github.io/
+
+⚡ Google Scholar: https://scholar.google.com.hk/citations?hl=en&user=BPEA2NMAAAAJ
